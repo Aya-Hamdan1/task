@@ -1,0 +1,110 @@
+
+
+nav {
+    padding: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: #505F98;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .title {
+    flex-grow: 1;
+    text-align: center;
+    color: #37447E;
+  }
+  .Top-button {
+    margin-left: 10px; 
+    width: 160px;
+    height: 26px;
+    color: #fff;
+    background-color: #111B47;
+
+  }
+  .middle-par{
+
+    width: 539.37px;
+    height: 421px;
+    top: 303px;
+    left: 163.12px;
+    margin: 100px;
+  }
+  .logo{
+    font-size: 26px;
+    line-height: 38px;
+    font-weight: bold;
+    font-family: 'Roboto';
+
+  }
+  .subtitle {
+    font-size: 50px;
+    line-height: 66px;
+    font-weight: 500px;
+    font-family: 'Roboto';
+    color: #091133;
+
+    /* text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #666; */
+    /* padding-bottom: 10px; */
+  }
+  .description{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400px;
+    font-family: 'Roboto';
+    color: #505F98;
+  }
+  .middle-button{
+    width: 189.13px;
+    height: 36px;
+    top: 688px;
+    font-family: 'Roboto';
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+  }
+  .first{
+    background-image: url('designer_1.png'); 
+  background-position:right;
+  background-repeat: no-repeat;
+  }
+  .image-text {
+    display: inline-block;
+    top: 1554px; 
+    height: 138px;
+    width: 255px;
+  }
+  .second{
+    background-image: url('icon2.svg'); 
+  background-position:right;
+  background-repeat: no-repeat;
+  }
+  .des{
+    display: flex;
+  justify-content: space-between;
+  }
+  .title2{
+    font-family: 'Roboto';
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #091133;
+  }
